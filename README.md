@@ -5,15 +5,15 @@
 <h3>Skills & Tools </h3>
 <h5> Machine Learning and Data Science</h5>
 <p>
-  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="180px" height="60px"/> 
-  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="180px" height="60px"/>
-  <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="180px" height="60px"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="150px" height="50px"/> 
+  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="150px" height="50px"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="150px" height="50px"/>
 </p>
 
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="50px" height="50px"/> 
   <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="50px" height="50px"/>
-  <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" width="50px" height="50px"/>
+  <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" width="70px" height="50px"/>
 </p>
 
 <h5>Web Development </h5>

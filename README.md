@@ -12,7 +12,8 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
   In the Past I have worked as a Full Time Freelance Machine Lerning Engineer.</a> 
 
 <h2> Things I am Good At </ h2>  
-  <h3>Domain</h3>Image Processing
+###Domain
+Classifications, Regressions, Image Processing, Object Detection, Clustering, Image Segmentation, Neural Networks -> (CNNs, RNNs, GANs), ReactJs, Django
 <h4> Machine Learning and Data Science</h4>
 <p>
   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="150px" height="50px"/> 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aroosh Ahmad</h1>
 
-<p align="center">🤖 Machine Learning Engineer | <img src="https://img.lovepik.com/element/40032/1975.png_300.png" color="white" width="20px" height="20px" />  Data Science Practitioner |  💻 Web Developer  </p>
+<p align="center">🤖 Machine Learning Engineer | <img src="https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-chart-and-background-data-trend-png-image_4849926.png" color="white" width="20px" height="20px" />  Data Science Practitioner |  💻 Web Developer  </p>
 
 <!-- <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47q8slyglgxyruo90kqkc5k8b172dnswgnqqicarft&rid=giphy.gif&ct=g" width="40%" height="auto"/> -->
 
@@ -44,6 +44,13 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg"  width="50px" height="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"  width="50px" height="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"  width="50px" height="50px"/>
+</p>
+
+
+<h2>Projects </h2>
+<p>
+ <a href = "http://www.sensaware.io/"></a>
+ <a href = "https://goindia.care/"></a>
 </p>
 
 <h3>Profiles</ h3>

@@ -11,7 +11,7 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 <p> I am currently working as a Full Stack Developer with React and Django @ <a href ="https://highbitsol.com/">Highbit Technologies.
   In the Past I have worked as a Full Time Freelance Machine Lerning Engineer.</a> 
 
-<h2> Things I am Good At </ h2>  
+<h2> Things I'm good at </ h2>  
 <h3>Domain</h3>
 <span>Classifications, Regressions, Image Processing, Object Detection, Clustering, Image Segmentation, Neural Networks -> (CNNs, RNNs, GANs), ReactJs, Django</span>
 <h4> Machine Learning and Data Science</h4>
@@ -39,9 +39,10 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"  width="50px" height="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"  width="50px" height="50px"/>
 </p>
+
+<h2>Profiles</ h2>  
+<p>
+  <a href="www.linkedin.com/in/aroosh-ahmad"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"  width="50px" height="50px"/></a>
+    <a href="https://www.kaggle.com/arshahmad22"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"  width="50px" height="50px"/></a>
+</p>
   
-  
-
-
-
-

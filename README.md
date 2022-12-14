@@ -11,13 +11,15 @@
 </p>
 
 <p>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="50px" height="50px"/> 
-  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="50px" height="50px"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="50px" height="50px"/> 
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="50px" height="50px"/>
+  <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" width="50px" height="50px"/>
 </p>
 
 <h5>Web Development </h5>
 
 <p>
+  <span style ="font-size:30px;"> Front-End : </span>
 <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50px" height="50px"/>
 <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50px" height="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"  width="50px" height="50px"/>

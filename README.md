@@ -19,7 +19,7 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 
 <h2> Things I'm good at </ h2>  
 <h3>Domain</h3>
-<s>Classifications, Regressions, Image Processing, Object Detection, Clustering, Image Segmentation, Neural Networks -> (CNNs, RNNs, GANs)</s>
+<p>Classifications, Regressions, Image Processing, Object Detection, Clustering, Image Segmentation, Neural Networks -> (CNNs, RNNs, GANs)</p>
 <p> PSD To HTML , Material UI Dashboards , Ecommerce Templates, ReactJs, Django, MySQL Server, PostgreSQL, Azure</p>
 <h4> Machine Learning and Data Science</h4>
 <p>
@@ -51,8 +51,10 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 
 <h2>Projects </h2>
 <p>
- <a href = "http://www.sensaware.io/"><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/sensaware.png" width="300px" height="220px" margin-right="10px"/></a>
- <a href = "https://goindia.care/" ><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/goindia.png" width="300px" height="220px"/></a>
+<!--  <a href = "http://www.sensaware.io/"><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/sensaware.png" width="300px" height="220px" margin-right="10px"/></a>
+ <a href = "https://goindia.care/" ><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/goindia.png" width="300px" height="220px"/></a> -->
+ <a href = "http://www.sensaware.io/">Sensaware</a>
+ <a href = "https://goindia.care/" >GoIndia</a>
 </p>
 
 <h3>Profiles</ h3>

@@ -1,4 +1,9 @@
 **Aroosh Ahmad**
 
-Who ? 
+❓Who.
+    <ul>
+      <li>🤖 Machine Learning Practitioner</li>
+    </ul>
+     
+     
 

@@ -3,7 +3,26 @@
 <p align="center">🤖 Machine Learning Engineer | <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/chart-column.svg" width="20px" height="20px" />  Data Science Practitioner |  💻 Web Developer</p>
 
 <h3>Skills & Tools </h3>
-<p><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" /> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" /></p>
+<h5> Machine Learning and Data Science</h5>
+<p>
+  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="20px" height="20px"/> 
+  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="20px" height="20px"/>
+  <br/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="20px" height="20px"/> 
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="20px" height="20px"/> 
+  <br/>
+    <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="20px" height="20px"/>
+    <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="20px" height="20px"/>
+</p>
+<p>
+  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="20px" height="20px"/>
+  </p>
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"  width="20px" height="20px"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg"  width="20px" height="20px"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"  width="20px" height="20px"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"  width="20px" height="20px"/>
+</p>
   
   
 

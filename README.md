@@ -32,7 +32,7 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="100px" height="70px"/>
 </p>
 
-<h4>Web Development </h4>
+<h4>Web Development</h4>
 
 <p>
 <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50px" height="50px"/>
@@ -49,8 +49,8 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 
 <h2>Projects </h2>
 <p>
- <a href = "http://www.sensaware.io/"><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/sensaware.png"/></a>
- <a href = "https://goindia.care/" ><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/goindia.png"/></a>
+ <a href = "http://www.sensaware.io/"><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/sensaware.png" width="300px" height="220px"/></a>
+ <a href = "https://goindia.care/" ><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/goindia.png" width="300px" height="220px"/></a>
 </p>
 
 <h3>Profiles</ h3>

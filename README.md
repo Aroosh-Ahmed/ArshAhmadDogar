@@ -19,7 +19,8 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 
 <h2> Things I'm good at </ h2>  
 <h3>Domain</h3>
-<span>Classifications, Regressions, Image Processing, Object Detection, Clustering, Image Segmentation, Neural Networks -> (CNNs, RNNs, GANs), ReactJs, Django</span>
+<s>Classifications, Regressions, Image Processing, Object Detection, Clustering, Image Segmentation, Neural Networks -> (CNNs, RNNs, GANs)</s>
+<p> PSD To HTML , Material UI Dashboards , Ecommerce Templates, ReactJs, Django, MySQL Server, PostgreSQL, Azure</p>
 <h4> Machine Learning and Data Science</h4>
 <p>
   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="150px" height="50px"/> 
@@ -44,12 +45,13 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg"  width="50px" height="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"  width="50px" height="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"  width="50px" height="50px"/>
+ <img src="https://img.icons8.com/fluency/2x/azure-1.png"  width="50px" height="50px"/>
 </p>
 
 
 <h2>Projects </h2>
 <p>
- <a href = "http://www.sensaware.io/"><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/sensaware.png" width="300px" height="220px"/></a>
+ <a href = "http://www.sensaware.io/"><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/sensaware.png" width="300px" height="220px" margin-right="10px"/></a>
  <a href = "https://goindia.care/" ><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/goindia.png" width="300px" height="220px"/></a>
 </p>
 

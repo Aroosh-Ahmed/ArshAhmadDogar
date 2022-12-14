@@ -20,7 +20,7 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="50px" height="50px"/> 
   <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="50px" height="50px"/>
   <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" width="70px" height="50px"/>
-   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="70px" height="50px"/>
+   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="100px" height="70px"/>
 </p>
 
 <h4>Web Development </h4>

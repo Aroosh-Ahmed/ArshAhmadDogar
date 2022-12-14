@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aroosh Ahmad</h1>
 
-<p align="center">🤖 Machine Learning Engineer | <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/chart-column.svg" color="white" width="20px" height="20px" />  Data Science Practitioner |  💻 Web Developer</p>
+<p align="center">🤖 Machine Learning Engineer | <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/chart-column.svg" color="white" width="20px" height="20px" />  Data Science Practitioner |  💻 Web Developer  <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47q8slyglgxyruo90kqkc5k8b172dnswgnqqicarft&rid=giphy.gif&ct=g" width="100%" height="auto"/></p>
 
 
 <h2> About Me </h2>
@@ -12,9 +12,9 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 <p> I am currently working as a Full Stack Developer with React and Django @ <a href ="https://highbitsol.com/">Highbit Technologies.
  </a>  In the Past I have worked as a Full Time Freelance Machine Lerning Engineer. </p>
 
-<p>
- <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47q8slyglgxyruo90kqkc5k8b172dnswgnqqicarft&rid=200.webp&ct=g" width="100%" height="auto"/>
-</p>
+
+
+
 
 <h2> Things I'm good at </ h2>  
 <h3>Domain</h3>

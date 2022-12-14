@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aroosh Ahmad</h1>
 
-<p align="center">🤖 Machine Learning Engineer | <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/chart-column.svg" color="white" width="20px" height="20px" />  Data Science Practitioner |  💻 Web Developer  <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47q8slyglgxyruo90kqkc5k8b172dnswgnqqicarft&rid=giphy.gif&ct=g" width="40%" height="auto"/></p>
+<p align="center">🤖 Machine Learning Engineer | <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/chart-column.svg" color="white" width="20px" height="20px" />  Data Science Practitioner |  💻 Web Developer  </p>
 
+<!-- <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47q8slyglgxyruo90kqkc5k8b172dnswgnqqicarft&rid=giphy.gif&ct=g" width="40%" height="auto"/> -->
 
 <h2> About Me </h2>
 <p>Huawei Certified AI Associate, skilled in effectively analyzing and parsing raw

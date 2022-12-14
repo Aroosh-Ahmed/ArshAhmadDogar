@@ -49,8 +49,8 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 
 <h2>Projects </h2>
 <p>
- <a href = "http://www.sensaware.io/"></a>
- <a href = "https://goindia.care/"></a>
+ <a href = "http://www.sensaware.io/"><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/sensaware.png"/></a>
+ <a href = "https://goindia.care/" ><img src="https://github.com/ArshAhmadDogar/ArshAhmadDogar/blob/main/goindia.png"/></a>
 </p>
 
 <h3>Profiles</ h3>

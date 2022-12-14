@@ -13,7 +13,7 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
  </a>  In the Past I have worked as a Full Time Freelance Machine Lerning Engineer. </p>
 
 <p>
- <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47q8slyglgxyruo90kqkc5k8b172dnswgnqqicarft&rid=200.webp&ct=g"/>
+ <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47q8slyglgxyruo90kqkc5k8b172dnswgnqqicarft&rid=200.webp&ct=g" width="100%" height="auto"/>
 </p>
 
 <h2> Things I'm good at </ h2>  

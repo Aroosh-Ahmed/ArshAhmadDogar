@@ -56,9 +56,10 @@ frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 <h3>Profiles</ h3>
 
 <br/>
+<br/>
 
 <p>
-  <a href="www.linkedin.com/in/aroosh-ahmad"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"  width="35px" height="35px"/></a>
-    <a href="https://www.kaggle.com/arshahmad22"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"  width="35px" height="35px"/></a>
+  <a href="www.linkedin.com/in/aroosh-ahmad"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"  width="30px" height="30px"/></a>
+    <a href="https://www.kaggle.com/arshahmad22"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"  width="30px" height="30px"/></a>
 </p>
   

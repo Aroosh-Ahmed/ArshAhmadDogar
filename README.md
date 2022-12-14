@@ -9,7 +9,7 @@ concepts of AI algorithms in Machine Learning and Deep Learning and
 frameworks and libraries like Tensorflow, Keras, OpenCV and Scikit-Learn.</p>
 
 <p> I am currently working as a Full Stack Developer with React and Django @ <a href ="https://highbitsol.com/">Highbit Technologies.
-  In the Past I have worked as a Full Time Freelance Machine Lerning Engineer.</a> 
+ </a>  In the Past I have worked as a Full Time Freelance Machine Lerning Engineer. </p>
 
 <h2> Things I'm good at </ h2>  
 <h3>Domain</h3>
